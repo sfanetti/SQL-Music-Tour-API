@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "secondUser",
+    "password": "Fubar",
+    "database": "tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "secondUser",
+    "password": "Fubar",
+    "database": "tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "secondUser",
+    "password": "Fubar",
+    "database": "tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
